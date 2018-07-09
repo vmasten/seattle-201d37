@@ -1,10 +1,29 @@
 # Class 1: Introduction to the Tools and Fundamentals of Development
 
+
+## Daily Plan
+- Notes:
+  - Anything top of mind? (This is your chance to raise questions, comments, etc)
+  - Slack, Canvas, YouTube, VS Code, and other tools
+  - How to ask a good question
+
+- Intros
+- Overview of the class
+- Unix & Git
+
+- Lunch 12:00p-1:00p
+
+- Review Canvas
+- HTML Overview
+- Intro JavaScript
+- Career Coaching Assignments
+- Review Canvas Assignments and today's lab
+
 <a id="top"></a>
 ## Lecture 1
 
 ## Today's Schedule
-This first day of class is an all-day session with the students that is mostly lecture. Note: this is not our typical class schedule. 
+This first day of class is an all-day session with the students that is mostly lecture. Note: this is not our typical class schedule.
 
 - [Kickoff!](#kickoff) *[30 minutes]*
 - [Academic Overview](#academic) *[60 minutes]*
@@ -138,7 +157,7 @@ In the lower left-hand corner of VSCode, click on the gear icon and select "Sett
 - p.30 	Events
 - p.36 	Browsers & document object
 - p.40 	How a browser sees a web page
-- p.44 	How HTML, CSS, JS work together			
+- p.44 	How HTML, CSS, JS work together
 - p.45 	Progressive enhancement
 - p.51 	JavaScript runs where it is found in the HTML
 
