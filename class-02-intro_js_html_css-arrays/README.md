@@ -4,17 +4,19 @@
 - Notes:
     - Anything top of mind?
     - Quizzes & Learning Journals
+    - Career Coaching Syllabus: Discsus the outcomes
 
-- Shell prompts
+- Shell prompts: Install zshell
+
 - GitHub Repos
 - HTML (5 minute checkin)
-- CSS:
-    - Intro or more?
-    - Separation of files
-    - Demo fun?
 - JS:
     - Conditionals
-    - Separation of files
+    - Linking JS scripts
+- CSS:
+    - Intro (or more?)
+    - Linking CSS stylesheets
+    - Demo fun?
 
 
 
