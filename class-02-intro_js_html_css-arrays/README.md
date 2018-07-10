@@ -1,15 +1,25 @@
 # Class 2: Basics of JS and HTML, including Arrays; CSS Introduction
 
+## Daily Plan
+- Notes:
+    - Anything top of mind?
+    - Quizzes & Learning Journals
+
+- Shell prompts
+- GitHub Repos
+- HTML (5 minute checkin)
+- CSS:
+    - Intro or more?
+    - Separation of files
+    - Demo fun?
+- JS:
+    - Conditionals
+    - Separation of files
+
+
+
 <a id="top"></a>
 ## Lecture 2
-
-## Today's Schedule
-- Announcements
-- [Topics from HTML readings](#html) *[15 minutes]*
-- [Topics from CSS readings](#css) *[30 minutes]*
-- [Topics from JS readings](#js) *[45 minutes]*
-- [Learning Journal](#lj) *[30 minutes]*
-- [Review lab assignment, code demo, `git clone`](#code) *[45 minutes]*
 
 ### Announcements:
  - Quizzes:
@@ -93,7 +103,7 @@ As a result of completing Lecture 2 of Code 201, students will:
 - p.30 	Events
 - p.36 	Browsers & document object
 - p.40 	How a browser sees a web page
-- p.44 	How HTML, CSS, JS work together			
+- p.44 	How HTML, CSS, JS work together
 - p.45 	Progressive enhancement
 - p.51 	JavaScript runs where it is found in the HTML
 
