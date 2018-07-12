@@ -1,5 +1,15 @@
 # Class 4: HTML Links, JS Functions, and Intro to CSS Layout
 
+## Daily Plan
+- Notes:
+    - Anything top of mind?
+
+- Code Review  (Forking & Pull Requests)
+- CSS: Layout
+- JS: Functions
+- Pair Programming
+- Lab Preview
+
 <a id="top"></a>
 ## Lecture 4
 
