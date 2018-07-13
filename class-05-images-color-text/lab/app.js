@@ -62,13 +62,15 @@ Test this function by hand in the console to get it working, and when you think 
 
 // Write your code here
 function sumAndMultiply(a, b, c) { //eslint-disable-line
-  var sum = a + b + c;
-  var product = a * b * c;
+  var int_sum = sum(a, b);
+  var final_sum = sum(int_sum[0], c);
+  var int_product = multiply(a, b);
+  var final_product = multiply(int_product[0], c);
   var arr = [];
-  arr.push(sum);
-  arr.push(product);
-  var sum_msg = a + ' and ' + b + ' and ' + c + ' sum to ' + sum + '.';
-  var product_msg = 'The product of ' + a + ' and ' + b + ' and ' + c + ' is ' + product + '.';
+  arr.push(final_sum[0]);
+  arr.push(final_product[0]);
+  var sum_msg = a + ' and ' + b + ' and ' + c + ' sum to ' + final_sum[0] + '.';
+  var product_msg = 'The product of ' + a + ' and ' + b + ' and ' + c + ' is ' + final_product[0] + '.';
   arr.push(sum_msg);
   arr.push(product_msg);
 
@@ -96,12 +98,20 @@ Test this function by hand in the console to get it working, and when you think 
 var testArray = [2, 3, 4]; //eslint-disable-line
 
 function sumArray(sumArr) { //eslint-disable-line
+  var int_total = sum(testArray[0], testArray[1]);
+  var final_total = sum(int_total[0], testArray[2]);
+  var arr = [];
+  arr.push(final_total[0]);
+  var msg = testArray[0] + ',' + testArray[1] + ',' + testArray[2] + ' was passed in as an array of numbers, and ' + final_total[0] + ' is their sum.';
+  arr.push(msg);
 
+  return arr;
+  
 }
 
 // Here is the test for sumArray(); uncomment it to run it
 
-// testSumArray(testArray);
+testSumArray(testArray);
 
 // Once you get the test passing, do an a-c-p cycle and synchronize the code between GitHub and your laptop. Don't forget to create a new branch for your work on the next question!
 
