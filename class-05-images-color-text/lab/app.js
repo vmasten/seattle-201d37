@@ -164,12 +164,9 @@ var testDynamicArray = [1,2,3,4,5]; //eslint-disable-line
 
 function multiplyAnyArray(dynamicArray) { //eslint-disable-line
 
-  for (var i = 0; i < dynamicArray.length; i++) {
+  for (var i = 0; i < dynamicArray.length - 1; i++) {
     var int_total = dynamicArray[i];
-    console.log(int_total);
-    if (i !== dynamicArray.length) {
     var working_total = multiply(int_total, dynamicArray[i + 1]);
-    }
     console.log(working_total);
   }
 
