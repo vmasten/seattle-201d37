@@ -164,7 +164,23 @@ var testDynamicArray = [1,2,3,4,5]; //eslint-disable-line
 
 function multiplyAnyArray(dynamicArray) { //eslint-disable-line
 
-}
+  for (var i = 0; i < dynamicArray.length; i++) {
+    var int_total = dynamicArray[i];
+    console.log(int_total);
+    if (i !== dynamicArray.length) {
+    var working_total = multiply(int_total, dynamicArray[i + 1]);
+    }
+    console.log(working_total);
+  }
+
+  return 0;
+   // var final_total = multiply(int_total[0], testArray[2]);
+    // var arr = [];
+    // arr.push(final_total[0]);
+    // var msg = 'The numbers ' + testArray[0] + ',' + testArray[1] + ',' + testArray[2] + ' have a product of ' + final_total[0] + '.';
+    // arr.push(msg);
+
+  }
 
 // Here is the test for multiplyArray(); uncomment it to run it
 // testMultiplyAnyArray(testDynamicArray);
