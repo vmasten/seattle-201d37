@@ -1,5 +1,20 @@
 # Class 5: Understanding Images, plus CSS for Color & Text Styling
 
+## Daily Plan
+- Notes:
+    - Weekly feedback surveys
+    - 401JS Presentations @130p
+    - 401 Instructor Panel Monday @1p
+    - Week 2: What's coming up?
+    - Anything top of mind?
+        - How did pair programming go?
+
+- Code Review (Fork, Branch, Code, PR)
+- Github Pages
+- Review!  (what do y'all want to do?)
+- Lab Preview
+
+
 <a id="top"></a>
 ## Lecture 5
 
